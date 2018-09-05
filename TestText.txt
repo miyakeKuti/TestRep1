@@ -1,3 +1,5 @@
 ﻿sampleです
 test中です。
 I am tester.
+no_next_fourthのテスト。
+だいぶわかってきた。
