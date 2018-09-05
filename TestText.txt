@@ -1,2 +1,3 @@
 ﻿sampleです
-追加内容１です。
+test中です。
+I am tester.
